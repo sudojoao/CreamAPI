@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This repository is a project created purely for educational and technical purposes.<p>
 >  I do not condone or support the use of this tool for any illegal activities. I have never used CreamAPI in any capacity, nor do I encourage or promote its use in any way that violates the terms of service of Steam, Epic Games, or any other platform. <p> I am not responsible for any misuse or legal consequences that arise from using this project. It is your responsibility to ensure you comply with all applicable laws and platform terms.
-Use this repository at your own risk.
+Use this repository at your own risk. <p> <b>All responsibility lies with you, the user.</b>
 
 > [!NOTE]
 > Easy to get and use Cream API for Steam, Epic and Ubisoft games

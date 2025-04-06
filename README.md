@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> This repository is a project created purely for educational purposes and software development testing for the open-source community.<p>
->  I do not condone or support the use of this tool for any illegal activities. I have never used CreamAPI in any capacity, nor do I encourage or promote its use in any way that violates the terms of service of Steam, Epic Games, or any other platform. <p> I am not responsible for any misuse or legal consequences that arise from using this project. It is your responsibility to ensure you comply with all applicable laws and platform terms.
-Use this repository at your own risk. <p> <b>All responsibility lies with you, the user.</b>
+> This repository is a project created purely for educational purposes and software development testing for the open-source community. I do not condone or support the use of this tool for any illegal activities. I have never used CreamAPI in any capacity, nor do I encourage or promote its use in any way that violates the terms of service of Steam, >Epic Games, or any other platform. <p> I am not responsible for any misuse or legal consequences that arise from using this project. It is your responsibility to ensure you comply with all applicable laws and platform terms. Support the creators and devolpers of the games.</p>
+>
+> Use this repository at your own risk. <p> <b>All responsibility lies with you, the user.</b>
 
 > [!NOTE]
 > Easy to get and use Cream API for Steam, Epic and Ubisoft games
@@ -9,12 +9,10 @@ Use this repository at your own risk. <p> <b>All responsibility lies with you, t
 > Automatically detects all games, along with their DLC-related DLL files.
 
 > [!WARNING]
-> ## TO RUN:
 > 
-> > ###  UNZIP .dll file   <p> unzip $${\color{gold}unzipTHIS.zip}$$ to main folder <br>
-> > > The reason for this is only to reduce size of directoy.
+> > ###  Download the installer [FILE](https://github.com/sudojoao/CreamAPI/blob/0ad579e7155ac9fd708b982b2447954559e36d17/CreamAPI.exe)  <p>
+> > ### Then run CreamAPI Installer <br>
 > 
 >
 >
-> > ###  RUN EXE <p> $${\color{gold}CreamInstaller-debug.exe}$$ 
 ![preview](preview.png)

@@ -1,5 +1,5 @@
 > [!NOTE]
-> Easy to get and use Cream API for Steam, Epic and Ubisoft games
+> Safer and easier to get and use Cream API for Steam, Epic and Ubisoft games
 > <br>
 > Automatically detects all games, along with their DLC-related DLL files.
 

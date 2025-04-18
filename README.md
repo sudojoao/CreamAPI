@@ -1,3 +1,4 @@
+<b>Please follow the instructions listed below.</b> <br>
 > [!NOTE]
 > Safer and easier to use Cream API for Steam, Epic and Ubisoft games
 > <br>
